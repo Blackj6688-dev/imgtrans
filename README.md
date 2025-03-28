@@ -50,7 +50,8 @@ pip install pillow
 
 ## **🔹 示例**  
 
-![](https://secure2.wostatic.cn/static/hQHBGoZNddr8mCjtratCan/截屏2025-03-27 17.18.05.png?auth_key=1743128822-x6JBtRNbhDbNron3x9T8Mk-0-15fc72644b2df321b88dccce49ee3796)
+![image](https://github.com/user-attachments/assets/8e254d1c-4b42-4124-b9e1-e009a1b8e58c)
+
 
 ```Bash
 请输入贴图文件夹路径（例如 C:/Users/Administrator/Textures）：C:/Users/Administrator/Textures
